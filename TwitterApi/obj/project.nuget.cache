@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vp02rv0hGS4viVr80L4f1R31uXqSv5YK6CjIFS9KfHr7DNckGaW71JtmS5SeG5Mdh5DAklp24VyN4R5+5sD5IA==",
+  "success": true,
+  "projectFilePath": "D:\\Faraday\\SourceControl\\TwitterApi\\TwitterApi\\TwitterApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bob\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\bob\\.nuget\\packages\\oauth.dotnetcore\\3.0.1\\oauth.dotnetcore.3.0.1.nupkg.sha512",
+    "C:\\Users\\bob\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
